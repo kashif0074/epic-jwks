@@ -1,0 +1,15 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "key_ops": [
+        "verify"
+      ],
+      "n": "mLQjY_I59S4qgE4Qx2MmF3RIlqaxptHPZIDxFIynJBkl9TxmB-wNRugbo-yIjjETURojMc3bUNb-a5J4KJX2dBSbAISmrj4Jhhtz5wvrmIvYQL9BOffjHlcX-0-T9k68nJx1gh-iOKznRMiRb7bTSh_5Bb4p_oYUzxzYDgCbfHcx7ptv9K7wta-4kWEFMbLwv5T3jE5D6P5E5xkMhXpF0muczijASCcGXsme_yEOo9QW48u2Kp9Jje9DifxqXkm4yg-rplPlrpIRv6FRDZKH28Ie3fYppm9dYp13I_FuavdYXR00rKhP9dyJFJZMPX08oBxhftKfvmh68cUlTcnHdQ",
+      "e": "AQAB",
+      "kid": "epic-key-1",
+      "alg": "RS384",
+      "use": "sig"
+    }
+  ]
+}
